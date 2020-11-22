@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "title": "Harry Porter",
+      "author": "J. K. Rowling"
+    },
+    {
+      "id": 1,
+      "title": "Lord of the rings",
+      "author": "J. R. R. Tolkien"
+    },
+    {
+      "id": 2,
+      "title": "Sherlock holmes",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "title": "Tay du ky",
+      "author": "Ngo Thua An",
+      "id": 3
+    }
+  ]
+}
